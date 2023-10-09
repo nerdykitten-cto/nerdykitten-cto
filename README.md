@@ -4,7 +4,7 @@
 - 📫 How to reach me:
     - LinkedIn: linkedin.com/in/syed-ali-bilal-6a805722a
     - Gmail: alibilal.cto@gmail.com
-- Currently Job Hunting so reach me out!
+- Currently Job Hunting so reach me out! 🤠
 <!---
 nerdykitten-cto/nerdykitten-cto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
