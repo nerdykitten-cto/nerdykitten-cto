@@ -21,7 +21,7 @@ An adaptive software developer and independent engineer blending structural disc
 ## 📌 Featured Projects
 
 ### 🏆 [LedgerQuest-Demo](https://github.com/nerdykitten-cto/LedgerQuest-FinJourney)
-#### Live Link: COMING SOON, in heavy bug-fixing at the moment.
+#### Live Link: [LedgerQuest-DEMO Firebase Site](https://ledgerquest-demo.web.app/)
 *LedgerQuest integrates your financial life directly into a fantasy realm. The two parts merge to get users to do boring finance management related chores and as a reward you play through a fantasy game that is a parody of finance management, getting users to be more smart with their finance while also getting a good laugh and fun.*
 
 ### 🛠️ [CafeD&D-TavernTable Planning and Recruitment Information Repo](https://github.com/nerdykitten-cto/cafeDND-taverntable-planning)
